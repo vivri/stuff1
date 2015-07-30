@@ -1,0 +1,20 @@
+{
+  "name": "TESTKIRA",
+  "version": "0.0.0",
+  "description": "-- web / api -- tag = text string -- tag provision, tag document --  -- search given tag -- find tags in doc",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "latest",
+    "q": "latest",
+    "lodash": "latest"
+
+  }
+}
